@@ -1,0 +1,20 @@
+# https://www.python.org
+
+#comentario en una linea 
+
+"""
+esto tambien es un comentario en varias lineas 
+"""
+
+my_variable = "Mi variable"
+my_variable = "valor nuevo para mi variable"
+
+MY_CONSTANT = "mi constante"
+
+MY_INT = 1 
+MY_FLOAT = 5.7
+MY_BOOL = TRUE
+MY_BOOL = FALSE
+MY_STRING= "CADENA DE TEXTO UWU"
+MY_OTHER_STRING='MI OTRA CADENA DE TEXTO'
+PRINT ("HOLA PYTON")
